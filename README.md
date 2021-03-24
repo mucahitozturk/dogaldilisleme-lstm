@@ -33,4 +33,5 @@
 * Daha sonra loss fonksiyonu olarak categorical crossentropy ve optimizasyon algoritması olarak Adam algoritmasını, metric olarak da accuracy kullandım.
 * Eğitimin her yinelemesinin kaybını hesaplamak için, kategorik çapraz entropiyi kullanacağız. Ayrıca ağımızı optimize etmek için, adam optimizasyonunu, tekrarlayan sinir ağları için genellikle çok iyi bir seçenek olduğundan kullanıyor olucam.
 
-## 5. Aşama: LSTM ağını (veya modeline) yeni veri girişlerinin nasıl yapıldığını açıkladım ve yeni şiir üretimi gerçekleştirdik.
+## 5. Aşama: LSTM ağını (veya modeline) yeni veri girişleri...
+* LSTM ağında yeni veri girişlerinin nasıl yapıldığını açıkladım ve yeni şiir üretimi gerçekleştirdim.
