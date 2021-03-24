@@ -1,3 +1,8 @@
 # LSTM ile Doğal Dil İşleme Projesi
 
-> LSTM kullanarak gerçekleştirdiğim Doğal Dil İşleme projem ile var olan şiirlerden yeni şiir türetmesi için bir model eğittim.
+> Eldeki şiir verilerinden yeni şiirler üreten veri setine yeni bir veri eklendiğinde herhangi bir değişikliğe gerek kalmadan çalışmaya devam eden dinamik bir uygulama geliştirdim.
+
+
+![image](https://user-images.githubusercontent.com/32402864/112366753-3c7d1b80-8cea-11eb-9ec5-411e22703071.png)
+
+##  1. Aşama: Veri setinizi programlama diline nasıl aktardınız.
